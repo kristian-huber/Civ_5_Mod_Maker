@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitClasses>
+		#9
+	</UnitClasses>
+
+	<Units>
+		#1
+	</Units>
+
+	<Unit_AITypes>
+		#2
+	</Unit_AITypes>
+
+	<Unit_Builds>
+		#3
+	</Unit_Builds>
+  
+	<Unit_ClassUpgrades>
+		#4
+	</Unit_ClassUpgrades>
+  
+	<Unit_FreePromotions>
+		#5
+	</Unit_FreePromotions>
+  
+	<Unit_Flavors>
+		#6
+	</Unit_Flavors>
+  
+	<Unit_ResourceQuantityRequirements>
+		#7
+	</Unit_ResourceQuantityRequirements>
+  
+	<Unit_YieldFromKills>
+		#8
+	</Unit_YieldFromKills>
+	
+</GameData>

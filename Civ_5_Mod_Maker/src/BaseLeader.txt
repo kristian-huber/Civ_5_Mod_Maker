@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Leaders>
+		#1
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+    	#2
+    </Leader_MajorCivApproachBiases>
+  
+	<Leader_MinorCivApproachBiases>
+   		#3
+	</Leader_MinorCivApproachBiases>
+  
+	<Leader_Flavors>
+		#4
+	</Leader_Flavors>
+  
+	<Leader_Traits>
+		#5
+	</Leader_Traits>
+	
+	<Language_en_US>
+		#6
+	</Language_en_US>
+ </GameData>

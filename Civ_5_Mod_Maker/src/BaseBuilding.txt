@@ -1,0 +1,59 @@
+<GameData>
+
+	<BuildingClasses>
+		#7
+	</BuildingClasses>
+
+	<Buildings>
+		#1
+	</Buildings>
+  
+	<Building_DomainFreeExperiences>
+		#2
+	</Building_DomainFreeExperiences>
+
+	<Building_DomainProductionModifiers>
+		#3
+	</Building_DomainProductionModifiers>
+
+	<Building_Flavors>
+		#4
+	</Building_Flavors>
+
+	<Building_YieldChanges>
+		#5
+	</Building_YieldChanges>
+  
+	<Building_YieldModifiers>
+		#6
+	</Building_YieldModifiers>
+	
+	<Building_TerrainYieldChanges>
+		#8
+	</Building_TerrainYieldChanges>
+	
+	<Building_FeatureYieldChanges>
+		#9
+	</Building_FeatureYieldChanges>
+	
+	<Building_ResourceYieldChanges>
+		#10
+	</Building_ResourceYieldChanges>
+	
+	<Building_ResourceQuantityRequirements>
+		#11
+	</Building_ResourceQuantityRequirements>
+	
+	<Building_ResourceQuantity>
+		#12
+	</Building_ResourceQuantity>
+	
+	<Building_UnitCombatProductionModifiers>
+		#13
+	</Building_UnitCombatProductionModifiers>
+	
+	<Building_LocalResourceOrs>
+		#14
+	</Building_LocalResourceOrs>
+	
+</GameData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Civilizations>
+		#1
+	</Civilizations>
+	
+	<PlayerColors>
+		#2
+	</PlayerColors>
+	
+	<Colors>
+		#3
+	</Colors>
+	
+	<Civilization_Leaders>
+		#4
+	</Civilization_Leaders>
+	
+	<Civilization_Religions>
+		#5
+	</Civilization_Religions>
+	
+	<Civilization_BuildingClassOverrides>
+		#6
+	</Civilization_BuildingClassOverrides>
+	
+	<Civilization_UnitClassOverrides>
+		#7
+	</Civilization_UnitClassOverrides>
+	
+	<Civilization_Start_Region_Priority>
+		#8
+	</Civilization_Start_Region_Priority>
+	
+	<Civilization_Start_Along_Ocean>
+		#9
+	</Civilization_Start_Along_Ocean>
+	
+	<Civilization_FreeBuildingClasses>
+		#10
+	</Civilization_FreeBuildingClasses>
+	
+	<Civilization_FreeUnits>
+		#11
+	</Civilization_FreeUnits>
+	
+	<Civilization_FreeTechs>
+		#12
+	</Civilization_FreeTechs>
+	
+	<Civilization_SpyNames>
+		#13
+	</Civilization_SpyNames>
+	
+	<Civilization_CityNames>
+		#14
+	</Civilization_CityNames>
+	
+</GameData>

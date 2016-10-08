@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Traits>
+		#1
+	</Traits>
+  
+	<Trait_FreePromotionUnitCombats>
+		#2
+	</Trait_FreePromotionUnitCombats>
+	
+	<Trait_ResourceQuantityModifiers>
+		#3
+	</Trait_ResourceQuantityModifiers>  
+  
+ 	<Trait_ImprovementYieldChanges>
+		#4
+	</Trait_ImprovementYieldChanges>
+  
+ 	<Trait_UnimprovedFeatureYieldChanges>
+		#5
+	</Trait_UnimprovedFeatureYieldChanges>
+	
+</GameData>
